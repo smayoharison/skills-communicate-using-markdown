@@ -6,6 +6,7 @@
 .....
 ###### H6 header function
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 All changes made to file using markdown header samples
