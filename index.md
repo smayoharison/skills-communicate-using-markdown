@@ -8,5 +8,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+Creating a block of code here
+var myVar = "Mark down";
+```
+All other items show normally
 
 All changes made to file using markdown header samples
