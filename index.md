@@ -15,3 +15,7 @@ var myVar = "Mark down";
 All other items show normally
 
 All changes made to file using markdown header samples
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
